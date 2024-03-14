@@ -289,3 +289,8 @@ ul a{
 .copyright{
     padding-top: 2px;
 }
+
+ .footer-panel2 a:hover{ 
+  text-decoration: underline;
+  cursor: pointer;
+ } 
